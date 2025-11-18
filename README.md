@@ -14,9 +14,4 @@ Supports multiple product categories
 Pre-trained model loaded automatically
 
 Easy integration with Web, Mobile, Power BI, etc.
-├── Server.py                   # Flask API Server
-├── util.py                     # Utility functions to load model and predict
-├── artifacts/
-│   ├── columns.json            # Feature & category column metadata
-│   └── Sales_Optimization.pickel   # Trained ML Model
-└── README.md                   # Project documentation
+
